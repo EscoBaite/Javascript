@@ -1,0 +1,1 @@
+Covers Extends and Super Keywords for Javascript OOP
